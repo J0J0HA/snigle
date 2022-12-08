@@ -1,0 +1,2 @@
+const static = importf("./required.kj").static;
+print(static)
